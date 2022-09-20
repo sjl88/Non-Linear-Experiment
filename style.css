@@ -49,7 +49,7 @@ background-color: #ffffff;
   /* - HERO -
 This code controls your "hero image." You will need to change hero.jpg to match your asset*/
 
-background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/hospital.jpg");
+background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hospital.jpg");
   height: 100%;
   background-attachment: fixed;
   background-position: center;
